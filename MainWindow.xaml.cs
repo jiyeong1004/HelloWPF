@@ -27,7 +27,7 @@ namespace HelloWPF
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            MessageBox.Show("첫 번째 버튼!");
         }
     }
 }
